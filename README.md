@@ -12,7 +12,7 @@
 I am <a href="https://vedanshpaliwal-2a770.web.app/#/home">Vedansh Paliwal</a> 😃 an undergraduate pursuing bachelor's in Computer Science. I love to interact with people and engage with communities. I am a Full Stack Web Developer,ReactJs Developer and Cloud Enthusiast!
 
 ## Work Experience 👔
-* Full Stack Web Developer Intern Intern at Descrii.tech
+* Full Stack Web Developer Intern at Descrii.tech
 * Web Developer Intern at Koyo Software Solution
 * Web Developer Intern at Sparks Foundation
 
