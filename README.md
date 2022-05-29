@@ -1,4 +1,4 @@
-# Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Welcome to my GitHub Profile 👨‍💻❤️
+# Hey e <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Welcome to my GitHub Profile 👨‍💻❤️
 
 ## <p><a href="https://vedanshpaliwal-2a770.web.app/#/home/">➡️ Check out my website ⚡</a></p>
 
@@ -18,9 +18,8 @@ I am <a href="https://vedanshpaliwal-2a770.web.app/#/home">Vedansh Paliwal</a> �
 
 
 ## Volunteer Experience🌱
-
-
 * Binance Campus Buidler
+* Coding Blocks SuperHero
 * Internshala Student Partner (ISP-24)
 
 
