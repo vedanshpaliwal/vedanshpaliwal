@@ -1,4 +1,4 @@
-# Hey  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="0px"> Welcome to my GitHub Profile 👨‍💻❤️
+# Hey Welcome to my GitHub Profile 👨‍💻❤️
 
 ## <p><a href="https://vedanshpaliwal-2a770.web.app/#/home/">➡️ Check out my website ⚡</a></p>
 
