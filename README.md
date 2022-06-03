@@ -1,4 +1,4 @@
-# Hey e <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Welcome to my GitHub Profile 👨‍💻❤️
+# Hey  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="0px"> Welcome to my GitHub Profile 👨‍💻❤️
 
 ## <p><a href="https://vedanshpaliwal-2a770.web.app/#/home/">➡️ Check out my website ⚡</a></p>
 
@@ -48,6 +48,6 @@ I am <a href="https://vedanshpaliwal-2a770.web.app/#/home">Vedansh Paliwal</a> �
 ## GitHub Stats 🎗️:
 ![Vedansh's github stats](https://github-readme-stats.vercel.app/api?username=vedanshpaliwal&show_icons=true&theme=radical)
   
-![Uttam's github stats](https://github-readme-streak-stats.herokuapp.com/?user=vedanshpaliwal)
+![Vedansh's github stats](https://github-readme-streak-stats.herokuapp.com/?user=vedanshpaliwal)
   
 Check out my Projects 🐾 💡 Below 👇
